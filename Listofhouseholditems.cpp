@@ -7,6 +7,7 @@ int main() {
         "Sofa",
         "Television",
         "Microwave",
+        "Vacuum Cleaner",
         "Table",
         "Chair",
         "Lamp",
