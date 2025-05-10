@@ -7,7 +7,11 @@ int main() {
         "Sofa",
         "Television",
         "Microwave",
+2nd_branch
+        "Washing Machine",
+      
         "Vacuum Cleaner",
+main
         "Table",
         "Chair",
         "Lamp",
